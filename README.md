@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi there, my name is Nirmay Das! I am a class of 2026 electrical and computer engineering student studying at the University of Texas at Austin. I have a strong passion for full-stack development with a particular emphasis on back-end development. I’m currently seeking software engineering internship positions to further develop my skills and contribute to impactful projects. 
+Hi there, my name is Nirmay Das! I am a class of 2027 electrical and computer engineering student studying at the University of Texas at Austin. I have a strong passion for full-stack development with a particular emphasis on back-end development. I’m currently seeking software engineering internship positions to further develop my skills and contribute to impactful projects. 
 
 
 ## 🌐 Socials:
