@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi there, my name is Nirmay Das! I’m a University of Texas at Austin student specializing in Electrical and Computer Engineering with a focus on backend software engineering and distributed systems. Previous internship experience includes Amazon SDE Intern on the Stores Traffic Engineering team and DraftKings backend SWE intern for the Pick6 platform/infrastructure team. 
+Hi there, my name is Nirmay Das. I’m a University of Texas at Austin student specializing in Electrical and Computer Engineering with a focus on backend software engineering and distributed systems. Previous internship experience includes Amazon SDE Intern on the Stores Traffic Engineering team and DraftKings backend SWE intern for the Pick6 platform/infrastructure team. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmay/) 
